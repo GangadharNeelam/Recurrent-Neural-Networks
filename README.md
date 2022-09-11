@@ -4,15 +4,15 @@
 A recurrent neural network is a type of artificial neural network commonly used in speech recognition and natural language processing. Recurrent neural networks recognize data's sequential characteristics and use patterns to predict the next likely scenario.
 
 ### Adavantages:
-• Possibility of processing input of any length
-• Model size not increasing with size of input
-• Computation takes into account historical information
-• Weights are shared across time
+- Possibility of processing input of any length
+- Model size not increasing with size of input
+- Computation takes into account historical information
+- Weights are shared across time
 
 ### Disadvantages:
-• Computation being slow
-• Difficulty of accessing information from a long time ago
-• Cannot consider any future input for the current state
+- Computation being slow
+- Difficulty of accessing information from a long time ago
+- Cannot consider any future input for the current state
 
 ### Applications:
 - Prediction problems
